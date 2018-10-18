@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-10-18T02:11:07Z" product-name="phpunitexample">
+		<header/>
+		<body>
+			<trans-unit id="tx_phpunitexample_domain_model_foo">
+				<source>Foo</source>
+			</trans-unit>
+			<trans-unit id="tx_phpunitexample_domain_model_foo.field1">
+				<source>Field1</source>
+			</trans-unit>
+			<trans-unit id="tx_phpunitexample_domain_model_foo.field2">
+				<source>Field2</source>
+			</trans-unit>
+			<trans-unit id="tx_phpunitexample_domain_model_foo.field3">
+				<source>Field3</source>
+			</trans-unit>
+			<trans-unit id="tx_phpunitexample_domain_model_foo.bar_relation">
+				<source>Bar Relation</source>
+			</trans-unit>
+			<trans-unit id="tx_phpunitexample_domain_model_bar">
+				<source>Bar</source>
+			</trans-unit>
+			<trans-unit id="tx_phpunitexample_domain_model_bar.field1">
+				<source>Field1</source>
+			</trans-unit>
+			<trans-unit id="tx_phpunitexample_domain_model_bar.field2">
+				<source>Field2</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

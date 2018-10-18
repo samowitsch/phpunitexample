@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-10-18T02:11:07Z" product-name="phpunitexample">
+		<header/>
+		<body>
+			<trans-unit id="field1.description">
+				<source>field1</source>
+			</trans-unit>
+			<trans-unit id="field2.description">
+				<source>field2</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

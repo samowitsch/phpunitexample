@@ -1,0 +1,28 @@
+{
+    "name": "samowitsch/phpunitexample",
+    "type": "typo3-cms-extension",
+    "description": "PHPUnit example",
+    "authors": [
+        {
+            "name": "Christian Sonntag",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Samowitsch\\Phpunitexample\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Samowitsch\\Phpunitexample\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "phpunitexample": "self.version",
+        "typo3-ter/phpunitexample": "self.version"
+    }
+}
