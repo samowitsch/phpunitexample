@@ -8,9 +8,6 @@
             "role": "Developer"
         }
     ],
-    "require": {
-        "typo3/cms-core": "^8.7.1"
-    },
     "autoload": {
         "psr-4": {
             "Samowitsch\\Phpunitexample\\": "Classes"

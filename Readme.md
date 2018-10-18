@@ -11,3 +11,13 @@ To run the test change on console into this extension folder use following comma
 $ ../../../../bin/phpunit
 ```
 > The example was used in combination with an composer based TYPO3 installation.
+
+## changing notes
+
+* removed`following part from auto generated composer.json
+```
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+```
+* changed auto generated test files to use [typo3/testing-framework](https://packagist.org/packages/typo3/testing-framework)
